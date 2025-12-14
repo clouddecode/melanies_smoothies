@@ -2,7 +2,7 @@
 import streamlit as st
 
 # Write directly to the app
-st.title(f":cup_with_straw: Customize your Smoothie :cup_with_straw:")
+st.title(f"My Parents New Healthy Diner")
 st.write(
   """Replace this example with your own code!
   **And if you're new to Streamlit,** check
